@@ -1,6 +1,9 @@
 <UpdateInfo>
-  <Version>4.4.1</Version>
-  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/wj9acndrckw5teegb1bvv/ModernReset_Update_4.4.3.zip?rlkey=2osyaahst1m80sedx576k9iq5</DownloadUrl>
+  <Version>4.4.4</Version>
+  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/kkberk2r5eapotagter0p/ModernReset_Update_V4.4.4_Admin_Fix.zip?rlkey=koybkkb7j70098jdjuqdds3vw</DownloadUrl>
   <Changelog>มีเวอร์ชั่นใหม่ เพิ่ม L4320
-เพิ่มโปรแกรม Ultraviewer</Changelog>
+
+แก้ไข L810-850 Fix
+เพิ่มโปรแกรม Ultraviewer
+เพิ่มโปรแกรม Activate Windows</Changelog>
 </UpdateInfo>
