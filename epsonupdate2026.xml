@@ -1,9 +1,7 @@
 <UpdateInfo>
-  <Version>4.4.4</Version>
-  <DownloadUrl>https://dl.dropboxusercontent.com/cl/fi/yizhk2uwsrrmqle13zu94/ModernReset_V4.4.4_USB_Safe_Update.zip?rlkey=fjwoxtp5djw1bu8wm34zmk0ke</DownloadUrl>
-  <Changelog>มีเวอร์ชั่นใหม่ เพิ่ม L4320
+  <Version>4.4.5</Version>
+  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/3ij38uwlllxp2fzqhqvj8/ModernResetEPOSN_4.4.5_Update.zip?rlkey=98rf59v5sumyvs1pb7v1eddu4&amp;st</DownloadUrl>
+  <Changelog>มีเวอร์ชั่นใหม่ เพิ่ม+Ultraviewer
 
-แก้ไข L810-850 Fix
-เพิ่มโปรแกรม Ultraviewer
-เพิ่มโปรแกรม Activate Windows</Changelog>
++Activate Windows+แก้ Fix QRCode</Changelog>
 </UpdateInfo>
