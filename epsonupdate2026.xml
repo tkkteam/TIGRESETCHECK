@@ -1,7 +1,9 @@
 <UpdateInfo>
-  <Version>4.4.5</Version>
-  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/kddv32j4dsrnlj6zulip4/ModernResetEPOSN_4.4.5_Update.zip?rlkey=xvd6dydmqqvmvbrqj7s03sac5</DownloadUrl>
-  <Changelog>มีเวอร์ชั่นใหม่ เพิ่ม+Ultraviewer
-
-+Activate Windows+แก้ Fix QRCode</Changelog>
+  <Version>4.4.6</Version>
+  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/apbxbkc2uunr6qvsknum0/ModernResetEPSON_4.4.6_Update.zip?rlkey=vqo07mc9o2x6n6ll9eduqy3a5</DownloadUrl>
+  <Changelog>มีเวอร์ชั่นใหม่ 
++ L15150 L15160 L15180
++ L6260 L6280
++Print Test System 
++แก้ไขระบบภายในบางส่วน</Changelog>
 </UpdateInfo>
