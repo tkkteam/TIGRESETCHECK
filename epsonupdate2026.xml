@@ -1,9 +1,7 @@
 <UpdateInfo>
-  <Version>4.4.6</Version>
-  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/apbxbkc2uunr6qvsknum0/ModernResetEPSON_4.4.6_Update.zip?rlkey=vqo07mc9o2x6n6ll9eduqy3a5</DownloadUrl>
-  <Changelog>มีเวอร์ชั่นใหม่ 
-+ L15150 L15160 L15180
-+ L6260 L6280
-+Print Test System 
-+แก้ไขระบบภายในบางส่วน</Changelog>
+  <Version>4.4.7</Version>
+  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/g654y99vojve1jpdm9znn/ModernResetEPSON_4.4.7_Update.zip?rlkey=wwazlcir22uz7gwxejrp1vtrr</DownloadUrl>
+  <Changelog>+แก้ไขระบบภายในบางส่วน
++รองรับ Windows 7 10 11
++fix ปุ่ม menu แสดงผลผิดเพี้ยน</Changelog>
 </UpdateInfo>
