@@ -1,7 +1,8 @@
 <UpdateInfo>
-  <Version>4.4.8</Version>
-  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/vnagcmz6wa9fv4d77vp35/ModernResetEPSON_4.4.8_Update.zip?rlkey=712m9spdt8c6o5hw4tg02axvf</DownloadUrl>
+  <Version>4.4.9</Version>
+  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/uqycl7q4ocrlugeyu7g0r/ModernResetEPSON_4.4.9_Update.zip?rlkey=dxjn4ybsoh08xrww85hioom6t</DownloadUrl>
   <Changelog>+แก้ไขระบบภายในบางส่วน
 +รองรับ Windows 7 10 11
-+fix ปุ่ม menu แสดงผลผิดเพี้ยน+เพิ่ม Reset ET-2800</Changelog>
+
++แก้ไขปุ่มแสดงผลเพี้ยนใน Windows 7 10 11 บางเวอร์ชั่น</Changelog>
 </UpdateInfo>
