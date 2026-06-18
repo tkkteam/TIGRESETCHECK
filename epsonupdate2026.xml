@@ -1,8 +1,9 @@
 <UpdateInfo>
-  <Version>4.4.9</Version>
-  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/jbo718hd18y5sln95qx6y/ModernResetEPSON_4.4.9_Hybrid_Setup.exe?rlkey=g6jaw7b5xxxuqkwkv2o5hevnp</DownloadUrl>
-  <Changelog>+แก้ไขระบบภายในบางส่วน
-+รองรับ Windows 7 10 11
-
-+แก้ไขปุ่มแสดงผลเพี้ยนใน Windows 7 10 11 บางเวอร์ชั่น</Changelog>
+  <Version>4.5.1</Version>
+  <DownloadUrl>https://dl.dropboxusercontent.com/scl/fi/fjkts1gz3c9ksm9984v0h/ModernResetEPSON_4.5.1_Update.zip?rlkey=s2kwgscy57lhjb8wdrt51jtlu</DownloadUrl>
+  <Changelog>Update 4.5.1 
+-แก้ไขปุ่ม RemoveUSBProt 
+-เพิ่มโปรแกรม Reset L15150 11050 
+-แก้ไข Error ต่างๆ
+-เพิ่มปุ่มเช็คประกันสินค้า</Changelog>
 </UpdateInfo>
